@@ -1,6 +1,6 @@
 # Salient-object-detection
 
-Please cite the article if you use our results. Thankyou
+Please cite the article if you use our results. Thank you.
 
 ## Bibtex
 ```
