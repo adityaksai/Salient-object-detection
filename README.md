@@ -1,4 +1,4 @@
-# Salient-object-detection
+# Intra-saliency transfer for effective salient-object-detection
 
 Please cite the article if you use our results. Thank you.
 
