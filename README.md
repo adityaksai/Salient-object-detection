@@ -4,10 +4,12 @@ Please cite the article if you use our results. Thank you.
 
 ## Bibtex
 ```
-@inproceedings{aditya2017intra,
-  title={Intra-saliency transfer for effective salient object detection},
-  author={Aditya, K and Kulkarni, RV},
-  booktitle={Proceedings of the 14th Conference of the IEEE India Section (INDICON)},
-  year={2017}
+@inproceedings{kompella2017intra,
+  title={Intra-Saliency Transfer for Effective Salient Object Detection},
+  author={Kompella, Aditya and Kulkarni, Raghavendra V},
+  booktitle={2017 14th IEEE India Council International Conference (INDICON)},
+  pages={1--6},
+  year={2017},
+  organization={IEEE}
 }
 ```
